@@ -18,9 +18,7 @@
     }
    ],
    "source": [
-    "# DeBoris Leonard\n",
-    "# Assignment 13\n",
-    "\n",
+   
     "''' This program performs webscrapping as well as scores readability and sentiment'''"
    ]
   },
